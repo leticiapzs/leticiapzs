@@ -1,7 +1,7 @@
 ## Letícia Peixoto
 
 
-
+- 👩🏻‍💻 Desenvolvedora Back-end
 - 🌱 Estudando Python e Java 
 
 
