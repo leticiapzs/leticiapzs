@@ -2,5 +2,4 @@
 
 
 
-- 🌱 Estudando Python e Java no momento
--->
+- 🌱 Estudando Python e Java 
