@@ -15,9 +15,8 @@
 
 ## GitHub Stats ⚡
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapzs&show_icons=true&theme=date_night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapzs&layout=compact&theme=date_night)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapzs\&rank_icon=github&theme=apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapzs&layout=compact&theme=apprentice)
 
 
 ## Entre em contato comigo! 📭
