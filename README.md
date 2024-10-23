@@ -15,7 +15,7 @@
 
 ## GitHub Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapzs\&rank_icon=github&theme=apprentice)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapzs\&rank_icon=github&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapzs&layout=compact&theme=apprentice)
 
 
