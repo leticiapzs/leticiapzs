@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+World%2C+I'm+Let%C3%ADcia+Peixoto)](https://git.io/typing-svg)
 
 
-- 👩🏻‍💻 Desenvolvedora Back-end
-- 🎓 Estudo Sistemas de Computação na Universidade Federal Fluminense
-- 🌱 Atualmente Residente em Desenvolvimento FullStack no programa TIC/Software Serratec
-- 🎯 Em busca da primeira oportunidade no mercado de tecnologia
+- 👩🏻‍💻 Desenvolvedora Back-end;
+- 🎓 Graduanda em Sistemas de Computação na Universidade Federal Fluminense;
+- 🎓 Desenvolvedora FullStack pelo programa TIC/Software Serratec;
+- 🎯 Em busca da primeira oportunidade no mercado de tecnologia.
 
 ## Tecnologias e Ferramentas
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
